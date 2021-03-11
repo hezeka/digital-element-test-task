@@ -1,20 +1,20 @@
-# test-task
+# Тестовое задание для цифрового элемента
 
-## Build Setup
+## Инструкция
 
 ```bash
-# install dependencies
+# Установить зависимости
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# Запустить режим разработки на 3000 порту
 $ yarn dev
 
-# build for production and launch server
+# Создание билда
 $ yarn build
 $ yarn start
 
-# generate static project
+# Сгенерировать статический сайт
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+<!-- For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org). -->
